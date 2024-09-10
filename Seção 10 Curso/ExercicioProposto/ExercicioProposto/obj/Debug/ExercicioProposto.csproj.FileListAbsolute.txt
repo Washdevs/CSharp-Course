@@ -1,0 +1,7 @@
+C:\Curso C# Nélio Alves\Seção 10 Curso\ExercicioProposto\ExercicioProposto\bin\Debug\ExercicioProposto.exe.config
+C:\Curso C# Nélio Alves\Seção 10 Curso\ExercicioProposto\ExercicioProposto\bin\Debug\ExercicioProposto.exe
+C:\Curso C# Nélio Alves\Seção 10 Curso\ExercicioProposto\ExercicioProposto\bin\Debug\ExercicioProposto.pdb
+C:\Curso C# Nélio Alves\Seção 10 Curso\ExercicioProposto\ExercicioProposto\obj\Debug\ExercicioProposto.csproj.AssemblyReference.cache
+C:\Curso C# Nélio Alves\Seção 10 Curso\ExercicioProposto\ExercicioProposto\obj\Debug\ExercicioProposto.csproj.CoreCompileInputs.cache
+C:\Curso C# Nélio Alves\Seção 10 Curso\ExercicioProposto\ExercicioProposto\obj\Debug\ExercicioProposto.exe
+C:\Curso C# Nélio Alves\Seção 10 Curso\ExercicioProposto\ExercicioProposto\obj\Debug\ExercicioProposto.pdb

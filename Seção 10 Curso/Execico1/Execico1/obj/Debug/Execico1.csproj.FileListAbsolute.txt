@@ -1,0 +1,7 @@
+C:\Curso C# Nélio Alves\Seção 10 Curso\Execico1\Execico1\bin\Debug\Execico1.exe.config
+C:\Curso C# Nélio Alves\Seção 10 Curso\Execico1\Execico1\bin\Debug\Execico1.exe
+C:\Curso C# Nélio Alves\Seção 10 Curso\Execico1\Execico1\bin\Debug\Execico1.pdb
+C:\Curso C# Nélio Alves\Seção 10 Curso\Execico1\Execico1\obj\Debug\Execico1.csproj.AssemblyReference.cache
+C:\Curso C# Nélio Alves\Seção 10 Curso\Execico1\Execico1\obj\Debug\Execico1.csproj.CoreCompileInputs.cache
+C:\Curso C# Nélio Alves\Seção 10 Curso\Execico1\Execico1\obj\Debug\Execico1.exe
+C:\Curso C# Nélio Alves\Seção 10 Curso\Execico1\Execico1\obj\Debug\Execico1.pdb

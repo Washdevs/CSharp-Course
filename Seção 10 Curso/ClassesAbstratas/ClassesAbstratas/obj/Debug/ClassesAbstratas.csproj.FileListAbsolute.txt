@@ -1,0 +1,7 @@
+C:\Curso C# Nélio Alves\Seção 10 Curso\ClassesAbstratas\ClassesAbstratas\bin\Debug\ClassesAbstratas.exe.config
+C:\Curso C# Nélio Alves\Seção 10 Curso\ClassesAbstratas\ClassesAbstratas\bin\Debug\ClassesAbstratas.exe
+C:\Curso C# Nélio Alves\Seção 10 Curso\ClassesAbstratas\ClassesAbstratas\bin\Debug\ClassesAbstratas.pdb
+C:\Curso C# Nélio Alves\Seção 10 Curso\ClassesAbstratas\ClassesAbstratas\obj\Debug\ClassesAbstratas.csproj.AssemblyReference.cache
+C:\Curso C# Nélio Alves\Seção 10 Curso\ClassesAbstratas\ClassesAbstratas\obj\Debug\ClassesAbstratas.csproj.CoreCompileInputs.cache
+C:\Curso C# Nélio Alves\Seção 10 Curso\ClassesAbstratas\ClassesAbstratas\obj\Debug\ClassesAbstratas.exe
+C:\Curso C# Nélio Alves\Seção 10 Curso\ClassesAbstratas\ClassesAbstratas\obj\Debug\ClassesAbstratas.pdb
