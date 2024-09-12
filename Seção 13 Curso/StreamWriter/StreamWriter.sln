@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamWriter", "StreamWriter\StreamWriter.csproj", "{252B7380-57CA-4C53-A140-DC0A15593A66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{252B7380-57CA-4C53-A140-DC0A15593A66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{252B7380-57CA-4C53-A140-DC0A15593A66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{252B7380-57CA-4C53-A140-DC0A15593A66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{252B7380-57CA-4C53-A140-DC0A15593A66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D613431-D89F-43A5-A974-F019AA352CCD}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\C# Nélio Alves\Seção 13 Curso\FileStremStreamReader\FileStremStreamReader\bin\Debug\FileStremStreamReader.exe.config
+C:\C# Nélio Alves\Seção 13 Curso\FileStremStreamReader\FileStremStreamReader\bin\Debug\FileStremStreamReader.exe
+C:\C# Nélio Alves\Seção 13 Curso\FileStremStreamReader\FileStremStreamReader\bin\Debug\FileStremStreamReader.pdb
+C:\C# Nélio Alves\Seção 13 Curso\FileStremStreamReader\FileStremStreamReader\obj\Debug\FileStremStreamReader.csproj.AssemblyReference.cache
+C:\C# Nélio Alves\Seção 13 Curso\FileStremStreamReader\FileStremStreamReader\obj\Debug\FileStremStreamReader.csproj.CoreCompileInputs.cache
+C:\C# Nélio Alves\Seção 13 Curso\FileStremStreamReader\FileStremStreamReader\obj\Debug\FileStremStreamReader.exe
+C:\C# Nélio Alves\Seção 13 Curso\FileStremStreamReader\FileStremStreamReader\obj\Debug\FileStremStreamReader.pdb

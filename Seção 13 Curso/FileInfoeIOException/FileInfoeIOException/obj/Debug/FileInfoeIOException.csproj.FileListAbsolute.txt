@@ -1,0 +1,7 @@
+C:\C# Nélio Alves\Seção 13 Curso\FileInfoeIOException\FileInfoeIOException\bin\Debug\FileInfoeIOException.exe.config
+C:\C# Nélio Alves\Seção 13 Curso\FileInfoeIOException\FileInfoeIOException\bin\Debug\FileInfoeIOException.exe
+C:\C# Nélio Alves\Seção 13 Curso\FileInfoeIOException\FileInfoeIOException\bin\Debug\FileInfoeIOException.pdb
+C:\C# Nélio Alves\Seção 13 Curso\FileInfoeIOException\FileInfoeIOException\obj\Debug\FileInfoeIOException.csproj.AssemblyReference.cache
+C:\C# Nélio Alves\Seção 13 Curso\FileInfoeIOException\FileInfoeIOException\obj\Debug\FileInfoeIOException.csproj.CoreCompileInputs.cache
+C:\C# Nélio Alves\Seção 13 Curso\FileInfoeIOException\FileInfoeIOException\obj\Debug\FileInfoeIOException.exe
+C:\C# Nélio Alves\Seção 13 Curso\FileInfoeIOException\FileInfoeIOException\obj\Debug\FileInfoeIOException.pdb

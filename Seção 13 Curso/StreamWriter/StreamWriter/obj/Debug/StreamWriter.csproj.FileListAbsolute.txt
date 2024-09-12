@@ -1,0 +1,7 @@
+C:\C# Nélio Alves\Seção 13 Curso\StreamWriter\StreamWriter\bin\Debug\StreamWriter.exe.config
+C:\C# Nélio Alves\Seção 13 Curso\StreamWriter\StreamWriter\bin\Debug\StreamWriter.exe
+C:\C# Nélio Alves\Seção 13 Curso\StreamWriter\StreamWriter\bin\Debug\StreamWriter.pdb
+C:\C# Nélio Alves\Seção 13 Curso\StreamWriter\StreamWriter\obj\Debug\StreamWriter.csproj.AssemblyReference.cache
+C:\C# Nélio Alves\Seção 13 Curso\StreamWriter\StreamWriter\obj\Debug\StreamWriter.csproj.CoreCompileInputs.cache
+C:\C# Nélio Alves\Seção 13 Curso\StreamWriter\StreamWriter\obj\Debug\StreamWriter.exe
+C:\C# Nélio Alves\Seção 13 Curso\StreamWriter\StreamWriter\obj\Debug\StreamWriter.pdb

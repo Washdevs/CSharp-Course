@@ -1,0 +1,7 @@
+C:\C# Nélio Alves\Seção 13 Curso\usingblock\usingblock\bin\Debug\usingblock.exe.config
+C:\C# Nélio Alves\Seção 13 Curso\usingblock\usingblock\bin\Debug\usingblock.exe
+C:\C# Nélio Alves\Seção 13 Curso\usingblock\usingblock\bin\Debug\usingblock.pdb
+C:\C# Nélio Alves\Seção 13 Curso\usingblock\usingblock\obj\Debug\usingblock.csproj.AssemblyReference.cache
+C:\C# Nélio Alves\Seção 13 Curso\usingblock\usingblock\obj\Debug\usingblock.csproj.CoreCompileInputs.cache
+C:\C# Nélio Alves\Seção 13 Curso\usingblock\usingblock\obj\Debug\usingblock.exe
+C:\C# Nélio Alves\Seção 13 Curso\usingblock\usingblock\obj\Debug\usingblock.pdb
