@@ -1,0 +1,7 @@
+C:\Curso C# Nélio Alves\Seção 10 Curso\finally\finally\bin\Debug\@finally.exe.config
+C:\Curso C# Nélio Alves\Seção 10 Curso\finally\finally\bin\Debug\@finally.exe
+C:\Curso C# Nélio Alves\Seção 10 Curso\finally\finally\bin\Debug\@finally.pdb
+C:\Curso C# Nélio Alves\Seção 10 Curso\finally\finally\obj\Debug\finally.csproj.AssemblyReference.cache
+C:\Curso C# Nélio Alves\Seção 10 Curso\finally\finally\obj\Debug\finally.csproj.CoreCompileInputs.cache
+C:\Curso C# Nélio Alves\Seção 10 Curso\finally\finally\obj\Debug\@finally.exe
+C:\Curso C# Nélio Alves\Seção 10 Curso\finally\finally\obj\Debug\@finally.pdb

@@ -1,0 +1,7 @@
+C:\Curso C# Nélio Alves\Seção 10 Curso\ExcecoesPersonalizadas\ExcecoesPersonalizadas\bin\Debug\ExcecoesPersonalizadas.exe.config
+C:\Curso C# Nélio Alves\Seção 10 Curso\ExcecoesPersonalizadas\ExcecoesPersonalizadas\bin\Debug\ExcecoesPersonalizadas.exe
+C:\Curso C# Nélio Alves\Seção 10 Curso\ExcecoesPersonalizadas\ExcecoesPersonalizadas\bin\Debug\ExcecoesPersonalizadas.pdb
+C:\Curso C# Nélio Alves\Seção 10 Curso\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\ExcecoesPersonalizadas.csproj.AssemblyReference.cache
+C:\Curso C# Nélio Alves\Seção 10 Curso\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\ExcecoesPersonalizadas.csproj.CoreCompileInputs.cache
+C:\Curso C# Nélio Alves\Seção 10 Curso\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\ExcecoesPersonalizadas.exe
+C:\Curso C# Nélio Alves\Seção 10 Curso\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\ExcecoesPersonalizadas.pdb

@@ -1,0 +1,7 @@
+C:\Curso C# Nélio Alves\Seção 10 Curso\trycatch\trycatch\bin\Debug\trycatch.exe.config
+C:\Curso C# Nélio Alves\Seção 10 Curso\trycatch\trycatch\bin\Debug\trycatch.exe
+C:\Curso C# Nélio Alves\Seção 10 Curso\trycatch\trycatch\bin\Debug\trycatch.pdb
+C:\Curso C# Nélio Alves\Seção 10 Curso\trycatch\trycatch\obj\Debug\trycatch.csproj.AssemblyReference.cache
+C:\Curso C# Nélio Alves\Seção 10 Curso\trycatch\trycatch\obj\Debug\trycatch.csproj.CoreCompileInputs.cache
+C:\Curso C# Nélio Alves\Seção 10 Curso\trycatch\trycatch\obj\Debug\trycatch.exe
+C:\Curso C# Nélio Alves\Seção 10 Curso\trycatch\trycatch\obj\Debug\trycatch.pdb
