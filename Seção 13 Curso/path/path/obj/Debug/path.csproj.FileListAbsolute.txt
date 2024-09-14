@@ -1,0 +1,7 @@
+C:\Curso C# Nélio Alves\Seção 13 Curso\path\path\bin\Debug\path.exe.config
+C:\Curso C# Nélio Alves\Seção 13 Curso\path\path\bin\Debug\path.exe
+C:\Curso C# Nélio Alves\Seção 13 Curso\path\path\bin\Debug\path.pdb
+C:\Curso C# Nélio Alves\Seção 13 Curso\path\path\obj\Debug\path.csproj.AssemblyReference.cache
+C:\Curso C# Nélio Alves\Seção 13 Curso\path\path\obj\Debug\path.csproj.CoreCompileInputs.cache
+C:\Curso C# Nélio Alves\Seção 13 Curso\path\path\obj\Debug\path.exe
+C:\Curso C# Nélio Alves\Seção 13 Curso\path\path\obj\Debug\path.pdb

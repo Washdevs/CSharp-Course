@@ -1,0 +1,7 @@
+C:\Curso C# Nélio Alves\Seção 13 Curso\Exercicio\Exercicio\bin\Debug\Exercicio.exe.config
+C:\Curso C# Nélio Alves\Seção 13 Curso\Exercicio\Exercicio\bin\Debug\Exercicio.exe
+C:\Curso C# Nélio Alves\Seção 13 Curso\Exercicio\Exercicio\bin\Debug\Exercicio.pdb
+C:\Curso C# Nélio Alves\Seção 13 Curso\Exercicio\Exercicio\obj\Debug\Exercicio.csproj.AssemblyReference.cache
+C:\Curso C# Nélio Alves\Seção 13 Curso\Exercicio\Exercicio\obj\Debug\Exercicio.csproj.CoreCompileInputs.cache
+C:\Curso C# Nélio Alves\Seção 13 Curso\Exercicio\Exercicio\obj\Debug\Exercicio.exe
+C:\Curso C# Nélio Alves\Seção 13 Curso\Exercicio\Exercicio\obj\Debug\Exercicio.pdb

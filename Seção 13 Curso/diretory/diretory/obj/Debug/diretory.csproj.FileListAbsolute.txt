@@ -1,0 +1,7 @@
+C:\Curso C# Nélio Alves\Seção 13 Curso\diretory\diretory\bin\Debug\diretory.exe.config
+C:\Curso C# Nélio Alves\Seção 13 Curso\diretory\diretory\bin\Debug\diretory.exe
+C:\Curso C# Nélio Alves\Seção 13 Curso\diretory\diretory\bin\Debug\diretory.pdb
+C:\Curso C# Nélio Alves\Seção 13 Curso\diretory\diretory\obj\Debug\diretory.csproj.AssemblyReference.cache
+C:\Curso C# Nélio Alves\Seção 13 Curso\diretory\diretory\obj\Debug\diretory.csproj.CoreCompileInputs.cache
+C:\Curso C# Nélio Alves\Seção 13 Curso\diretory\diretory\obj\Debug\diretory.exe
+C:\Curso C# Nélio Alves\Seção 13 Curso\diretory\diretory\obj\Debug\diretory.pdb
