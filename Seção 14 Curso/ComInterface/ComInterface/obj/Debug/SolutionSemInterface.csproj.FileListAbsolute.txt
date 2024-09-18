@@ -1,0 +1,7 @@
+C:\Curso C# Nélio Alves\Seção 14 Curso\SolutionSemInterface\SolutionSemInterface\bin\Debug\SolutionSemInterface.exe.config
+C:\Curso C# Nélio Alves\Seção 14 Curso\SolutionSemInterface\SolutionSemInterface\bin\Debug\SolutionSemInterface.exe
+C:\Curso C# Nélio Alves\Seção 14 Curso\SolutionSemInterface\SolutionSemInterface\bin\Debug\SolutionSemInterface.pdb
+C:\Curso C# Nélio Alves\Seção 14 Curso\SolutionSemInterface\SolutionSemInterface\obj\Debug\SolutionSemInterface.csproj.AssemblyReference.cache
+C:\Curso C# Nélio Alves\Seção 14 Curso\SolutionSemInterface\SolutionSemInterface\obj\Debug\SolutionSemInterface.csproj.CoreCompileInputs.cache
+C:\Curso C# Nélio Alves\Seção 14 Curso\SolutionSemInterface\SolutionSemInterface\obj\Debug\SolutionSemInterface.exe
+C:\Curso C# Nélio Alves\Seção 14 Curso\SolutionSemInterface\SolutionSemInterface\obj\Debug\SolutionSemInterface.pdb
