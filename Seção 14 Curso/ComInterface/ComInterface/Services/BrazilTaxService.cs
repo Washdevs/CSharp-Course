@@ -1,6 +1,7 @@
-﻿namespace SolutionSemInterface.Services
-{ 
-    internal class BrazilTaxService
+﻿// Namespace da classe BrazilTaxService
+namespace SolutionSemInterface.Services
+{
+    internal class BrazilTaxService : ITaxService
     {
         public double Tax(double amount)
         {

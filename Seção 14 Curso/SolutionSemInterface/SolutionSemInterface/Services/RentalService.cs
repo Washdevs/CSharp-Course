@@ -1,5 +1,6 @@
 ﻿using SolutionSemInterface.Entities;
 using System;
+
 namespace SolutionSemInterface.Services
 {
     internal class RentalService
@@ -7,7 +8,7 @@ namespace SolutionSemInterface.Services
         public double pricePerHour { get; set; }
         public double pricePerDay { get; set; }
 
-        private BrazilTaxService brazilTaxService = new BrazilTaxService();
+        private BrazilTaxService _brazilTaxService = new BrazilTaxService();
 
         public RentalService(double pricePerHour, double pricePerDay)
         {
@@ -28,7 +29,7 @@ namespace SolutionSemInterface.Services
                 basicPayment = pricePerDay * Math.Ceiling(duration.TotalDays);
             }
 
-            double tax = brazilTaxService.Tax(basicPayment);
+            double tax = _brazilTaxService.Tax(basicPayment); // Use o nome correto aqui
 
             carRental.Invoice = new Invoice(basicPayment, tax);
         }

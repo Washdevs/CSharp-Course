@@ -1,0 +1,7 @@
+C:\Curso C# Nélio Alves\Seção 14 Curso\ComInterface\ComInterface\bin\Debug\SolutionSemInterface.exe.config
+C:\Curso C# Nélio Alves\Seção 14 Curso\ComInterface\ComInterface\bin\Debug\SolutionSemInterface.exe
+C:\Curso C# Nélio Alves\Seção 14 Curso\ComInterface\ComInterface\bin\Debug\SolutionSemInterface.pdb
+C:\Curso C# Nélio Alves\Seção 14 Curso\ComInterface\ComInterface\obj\Debug\ComInterface.csproj.AssemblyReference.cache
+C:\Curso C# Nélio Alves\Seção 14 Curso\ComInterface\ComInterface\obj\Debug\ComInterface.csproj.CoreCompileInputs.cache
+C:\Curso C# Nélio Alves\Seção 14 Curso\ComInterface\ComInterface\obj\Debug\SolutionSemInterface.exe
+C:\Curso C# Nélio Alves\Seção 14 Curso\ComInterface\ComInterface\obj\Debug\SolutionSemInterface.pdb
