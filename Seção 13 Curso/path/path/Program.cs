@@ -7,6 +7,7 @@ namespace filepath
         static void Main(string[] args)
         {
             string path = @"C:\Windows\Temp\myfolder\file1.txt";
+
             Console.WriteLine("Char separador: " + Path.DirectorySeparatorChar);
             Console.WriteLine("Separador do Diretório: " + Path.PathSeparator);
             Console.WriteLine("Nome do diretório: " + Path.GetDirectoryName(path));
