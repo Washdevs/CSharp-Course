@@ -1,0 +1,7 @@
+C:\Curso C# Nélio Alves\Seção 14 Curso\HerançaMultipla\HerançaMultipla\bin\Debug\HerançaMultipla.exe.config
+C:\Curso C# Nélio Alves\Seção 14 Curso\HerançaMultipla\HerançaMultipla\bin\Debug\HerançaMultipla.exe
+C:\Curso C# Nélio Alves\Seção 14 Curso\HerançaMultipla\HerançaMultipla\bin\Debug\HerançaMultipla.pdb
+C:\Curso C# Nélio Alves\Seção 14 Curso\HerançaMultipla\HerançaMultipla\obj\Debug\HerançaMultipla.csproj.AssemblyReference.cache
+C:\Curso C# Nélio Alves\Seção 14 Curso\HerançaMultipla\HerançaMultipla\obj\Debug\HerançaMultipla.csproj.CoreCompileInputs.cache
+C:\Curso C# Nélio Alves\Seção 14 Curso\HerançaMultipla\HerançaMultipla\obj\Debug\HerançaMultipla.exe
+C:\Curso C# Nélio Alves\Seção 14 Curso\HerançaMultipla\HerançaMultipla\obj\Debug\HerançaMultipla.pdb

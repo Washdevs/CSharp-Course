@@ -10,7 +10,6 @@ namespace HerdarvsCumpContrato.Entities
         {
             return Math.PI * Math.Pow(Radius, 2);
         }
-
         public override string ToString()
         {
             return "Circle Color = "

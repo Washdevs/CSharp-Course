@@ -8,7 +8,7 @@ namespace HerdarvsCumpContrato
         static void Main(string[] args)
         {
             AbstractShape s1 = new Circle() { Radius = 2.0, Color = Color.Green };
-            AbstractShape s2 = new Rectangle() {Height = 30.5, Width = 30.5, Color = Color.White };
+            AbstractShape s2 = new Rectangle() { Height = 30.5, Width = 30.5, Color = Color.White };
             Console.WriteLine(s1);
             Console.WriteLine(s2);
         }
