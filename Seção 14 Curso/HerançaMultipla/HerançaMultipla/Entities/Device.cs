@@ -5,6 +5,6 @@ namespace HerançaMultipla.Entities
     {
         public int SerialNumber { get; set; }
 
-        public abstract void processDoc(string doc);
+        public abstract void ProcessDoc(string document);
     }
 }

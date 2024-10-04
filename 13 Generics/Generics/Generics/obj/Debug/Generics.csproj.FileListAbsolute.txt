@@ -1,0 +1,7 @@
+C:\Curso C# Nélio Alves\13 Generics\Generics\Generics\bin\Debug\Generics.exe.config
+C:\Curso C# Nélio Alves\13 Generics\Generics\Generics\bin\Debug\Generics.exe
+C:\Curso C# Nélio Alves\13 Generics\Generics\Generics\bin\Debug\Generics.pdb
+C:\Curso C# Nélio Alves\13 Generics\Generics\Generics\obj\Debug\Generics.csproj.AssemblyReference.cache
+C:\Curso C# Nélio Alves\13 Generics\Generics\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Curso C# Nélio Alves\13 Generics\Generics\Generics\obj\Debug\Generics.exe
+C:\Curso C# Nélio Alves\13 Generics\Generics\Generics\obj\Debug\Generics.pdb

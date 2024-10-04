@@ -1,13 +1,17 @@
 ﻿using System;
 namespace HerançaMultipla.Entities
-{ 
-    internal class Printer : Device
-    { 
-        public override void processDoc(string document)
+{
+    internal class Printer : Device, IPrinter
+    {
+        // Implementação do Device
+        public override void ProcessDoc(string document)
         {
-            Console.WriteLine($"Processando o documento: {document}");
+            Console.WriteLine("Printer Processing: " + document);
         }
-
-        public void print(string doc) { }
+        // Implementação da Interface
+        public void Print(string document)
+        {
+            Console.WriteLine("Printer Print " + document);
+        }
     }
 }

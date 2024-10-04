@@ -1,0 +1,7 @@
+C:\Curso C# Nélio Alves\Seção 14 Curso\InterfaceComparable\InterfaceComparable\bin\Debug\InterfaceComparable.exe.config
+C:\Curso C# Nélio Alves\Seção 14 Curso\InterfaceComparable\InterfaceComparable\bin\Debug\InterfaceComparable.exe
+C:\Curso C# Nélio Alves\Seção 14 Curso\InterfaceComparable\InterfaceComparable\bin\Debug\InterfaceComparable.pdb
+C:\Curso C# Nélio Alves\Seção 14 Curso\InterfaceComparable\InterfaceComparable\obj\Debug\InterfaceComparable.csproj.AssemblyReference.cache
+C:\Curso C# Nélio Alves\Seção 14 Curso\InterfaceComparable\InterfaceComparable\obj\Debug\InterfaceComparable.csproj.CoreCompileInputs.cache
+C:\Curso C# Nélio Alves\Seção 14 Curso\InterfaceComparable\InterfaceComparable\obj\Debug\InterfaceComparable.exe
+C:\Curso C# Nélio Alves\Seção 14 Curso\InterfaceComparable\InterfaceComparable\obj\Debug\InterfaceComparable.pdb

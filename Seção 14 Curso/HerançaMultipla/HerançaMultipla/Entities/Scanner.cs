@@ -1,13 +1,15 @@
 ﻿using System;
 namespace HerançaMultipla.Entities
 {
-    internal class Scanner : Device
+    internal class Scanner : Device, IScanner
     {
-        public override void processDoc(string document)
+        // Implementeação do Device
+        public override void ProcessDoc(string document)
         {
-            Console.WriteLine($"Processando o documento: {document}");
+            Console.WriteLine("Scaner Processing: " + document);
         }
 
+        // Implementação da Interface
         public string Scan()
         {
             return "Scanner Scan Result";
