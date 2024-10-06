@@ -6,7 +6,8 @@ namespace Generics
     {
         static void Main(string[] args)
         {
-            PrintService printService = new PrintService();
+            PrintService<int> printService = new PrintService<int>();
+            PrintService<string> printS = new PrintService<string>();
 
             try
             {
@@ -18,19 +19,32 @@ namespace Generics
                     Console.WriteLine("Por favor, insira um número entre 1 e 10.");
                     return;
                 }
-
-                for (int i = 0; i < n; i++)
+                if (n < 1 || n > 10)
                 {
-                    Console.WriteLine($"Digite o valor {i + 1}:");
-                    int value = int.Parse(Console.ReadLine());
-                    printService.AddValue(value);
+                    for (int i = 0; i < n; i++)
+                    {
+                        Console.WriteLine($"Digite o valor {i + 1}:");
+                        int value = int.Parse(Console.ReadLine());
+                        printService.AddValue(value);
+                    }
+                    printService.Print();
+                    Console.WriteLine("First value: " + printService.First());
                 }
-                printService.Print();
-                Console.WriteLine("First value: " + printService.First());
+                else
+                {
+                    for (int i = 0; i < n; i++)
+                    {
+                        Console.WriteLine($"Digite o valor {i + 1}:");
+                        string value = Console.ReadLine();
+                        printS.AddValue(value);
+                    }
+                    printS.Print();
+                    Console.WriteLine("First value: " + printS.First());
+                }
             }
-            catch (Exception e)
+            catch (Exception ex)
             {
-                Console.WriteLine("Erro Ocorrido: " + e.Message);
+                Console.WriteLine("Erro Ocorrido: " + ex.Message);
             }
         }
     }

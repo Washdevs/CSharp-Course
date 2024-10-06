@@ -2,14 +2,14 @@
 using System.Collections.Generic;
 namespace Generics.Services
 {
-    internal class PrintService
+    internal class PrintService<T>
     {
-        public List<int> _values = new List<int>();
-        public void AddValue(int value)
+        public List<T> _values = new List<T>();
+        public void AddValue(T value)
         {
             _values.Add(value);
         }
-        public int First()
+        public T First()
         {
             if (_values.Count == 0)
             {
