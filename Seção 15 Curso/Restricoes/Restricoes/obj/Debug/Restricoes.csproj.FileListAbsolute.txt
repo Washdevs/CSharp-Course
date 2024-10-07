@@ -1,0 +1,7 @@
+C:\Curso C# Nélio Alves\Seção 15 Curso\Restricoes\Restricoes\bin\Debug\Restricoes.exe.config
+C:\Curso C# Nélio Alves\Seção 15 Curso\Restricoes\Restricoes\bin\Debug\Restricoes.exe
+C:\Curso C# Nélio Alves\Seção 15 Curso\Restricoes\Restricoes\bin\Debug\Restricoes.pdb
+C:\Curso C# Nélio Alves\Seção 15 Curso\Restricoes\Restricoes\obj\Debug\Restricoes.csproj.AssemblyReference.cache
+C:\Curso C# Nélio Alves\Seção 15 Curso\Restricoes\Restricoes\obj\Debug\Restricoes.csproj.CoreCompileInputs.cache
+C:\Curso C# Nélio Alves\Seção 15 Curso\Restricoes\Restricoes\obj\Debug\Restricoes.exe
+C:\Curso C# Nélio Alves\Seção 15 Curso\Restricoes\Restricoes\obj\Debug\Restricoes.pdb
