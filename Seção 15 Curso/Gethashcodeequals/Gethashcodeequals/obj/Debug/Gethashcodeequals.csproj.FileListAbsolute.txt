@@ -1,0 +1,7 @@
+C:\Curso C# Nélio Alves\Seção 15 Curso\Gethashcodeequals\Gethashcodeequals\bin\Debug\Gethashcodeequals.exe.config
+C:\Curso C# Nélio Alves\Seção 15 Curso\Gethashcodeequals\Gethashcodeequals\bin\Debug\Gethashcodeequals.exe
+C:\Curso C# Nélio Alves\Seção 15 Curso\Gethashcodeequals\Gethashcodeequals\bin\Debug\Gethashcodeequals.pdb
+C:\Curso C# Nélio Alves\Seção 15 Curso\Gethashcodeequals\Gethashcodeequals\obj\Debug\Gethashcodeequals.csproj.AssemblyReference.cache
+C:\Curso C# Nélio Alves\Seção 15 Curso\Gethashcodeequals\Gethashcodeequals\obj\Debug\Gethashcodeequals.csproj.CoreCompileInputs.cache
+C:\Curso C# Nélio Alves\Seção 15 Curso\Gethashcodeequals\Gethashcodeequals\obj\Debug\Gethashcodeequals.exe
+C:\Curso C# Nélio Alves\Seção 15 Curso\Gethashcodeequals\Gethashcodeequals\obj\Debug\Gethashcodeequals.pdb
