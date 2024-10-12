@@ -1,0 +1,7 @@
+C:\Curso C# Nélio Alves\Seção 15 Curso\ConjuntosHasheSorted\ConjuntosHasheSorted\bin\Debug\ConjuntosHasheSorted.exe.config
+C:\Curso C# Nélio Alves\Seção 15 Curso\ConjuntosHasheSorted\ConjuntosHasheSorted\bin\Debug\ConjuntosHasheSorted.exe
+C:\Curso C# Nélio Alves\Seção 15 Curso\ConjuntosHasheSorted\ConjuntosHasheSorted\bin\Debug\ConjuntosHasheSorted.pdb
+C:\Curso C# Nélio Alves\Seção 15 Curso\ConjuntosHasheSorted\ConjuntosHasheSorted\obj\Debug\ConjuntosHasheSorted.csproj.AssemblyReference.cache
+C:\Curso C# Nélio Alves\Seção 15 Curso\ConjuntosHasheSorted\ConjuntosHasheSorted\obj\Debug\ConjuntosHasheSorted.csproj.CoreCompileInputs.cache
+C:\Curso C# Nélio Alves\Seção 15 Curso\ConjuntosHasheSorted\ConjuntosHasheSorted\obj\Debug\ConjuntosHasheSorted.exe
+C:\Curso C# Nélio Alves\Seção 15 Curso\ConjuntosHasheSorted\ConjuntosHasheSorted\obj\Debug\ConjuntosHasheSorted.pdb

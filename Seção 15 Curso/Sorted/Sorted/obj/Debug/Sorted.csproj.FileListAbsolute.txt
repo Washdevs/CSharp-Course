@@ -1,0 +1,7 @@
+C:\Curso C# Nélio Alves\Seção 15 Curso\Sorted\Sorted\bin\Debug\Sorted.exe.config
+C:\Curso C# Nélio Alves\Seção 15 Curso\Sorted\Sorted\bin\Debug\Sorted.exe
+C:\Curso C# Nélio Alves\Seção 15 Curso\Sorted\Sorted\bin\Debug\Sorted.pdb
+C:\Curso C# Nélio Alves\Seção 15 Curso\Sorted\Sorted\obj\Debug\Sorted.csproj.AssemblyReference.cache
+C:\Curso C# Nélio Alves\Seção 15 Curso\Sorted\Sorted\obj\Debug\Sorted.csproj.CoreCompileInputs.cache
+C:\Curso C# Nélio Alves\Seção 15 Curso\Sorted\Sorted\obj\Debug\Sorted.exe
+C:\Curso C# Nélio Alves\Seção 15 Curso\Sorted\Sorted\obj\Debug\Sorted.pdb
