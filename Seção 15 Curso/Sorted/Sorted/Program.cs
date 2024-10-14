@@ -10,16 +10,19 @@ namespace Sorted
             SortedSet<int> b = new SortedSet<int>() { 5, 6, 7, 8, 9, 10 };
 
             //union
+            Console.WriteLine("union");
             SortedSet<int> c = new SortedSet<int>(a);
             c.UnionWith(b);
             PrintCollection(c);
-            
+
             //intersection
+            Console.WriteLine("intersection");
             SortedSet<int> d = new SortedSet<int>(a);
             d.IntersectWith(b);
             PrintCollection(d);
 
             //difference
+            Console.WriteLine("difference");
             SortedSet<int> e = new SortedSet<int>(a);
             e.ExceptWith(b);
             PrintCollection(e);
