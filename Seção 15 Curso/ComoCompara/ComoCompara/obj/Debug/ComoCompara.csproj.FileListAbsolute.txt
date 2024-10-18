@@ -1,0 +1,7 @@
+C:\Curso C# Nélio Alves\Seção 15 Curso\ComoCompara\ComoCompara\bin\Debug\ComoCompara.exe.config
+C:\Curso C# Nélio Alves\Seção 15 Curso\ComoCompara\ComoCompara\bin\Debug\ComoCompara.exe
+C:\Curso C# Nélio Alves\Seção 15 Curso\ComoCompara\ComoCompara\bin\Debug\ComoCompara.pdb
+C:\Curso C# Nélio Alves\Seção 15 Curso\ComoCompara\ComoCompara\obj\Debug\ComoCompara.csproj.AssemblyReference.cache
+C:\Curso C# Nélio Alves\Seção 15 Curso\ComoCompara\ComoCompara\obj\Debug\ComoCompara.csproj.CoreCompileInputs.cache
+C:\Curso C# Nélio Alves\Seção 15 Curso\ComoCompara\ComoCompara\obj\Debug\ComoCompara.exe
+C:\Curso C# Nélio Alves\Seção 15 Curso\ComoCompara\ComoCompara\obj\Debug\ComoCompara.pdb
